@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aacatl
 - 👀 I’m interested in Coding cool projects
-- 🌱 I’m currently learning C++, Python and Swift.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently learning C++, Python, Xcode, and R.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me aacatlcampos@gmail.com
 
 <!---
